@@ -1,1 +1,0 @@
-This folder contains the codes of proposed attack, i.e., Round Key Attack, on AES-128, AES-192, and AES-256. The user needs to provide the file containing ciphertext as mentioned in the paper. For reference, we have already provided a file. 
